@@ -1,3 +1,11 @@
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![FastAPI](https://img.shields.io/badge/FastAPI-API-green?logo=fastapi)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+![License](https://img.shields.io/badge/License-MIT-blue)
+![Repo Size](https://img.shields.io/github/repo-size/ralph-xxx/Data-Science-Applications)
+![Stars](https://img.shields.io/github/stars/ralph-xxx/Data-Science-Applications?style=social)
+
 Project Title
 
 Data Science in Education: Student Performance Analytics
